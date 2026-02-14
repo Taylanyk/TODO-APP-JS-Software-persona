@@ -2,7 +2,13 @@
 
 Modern concert artist management application built with **React, Vite, and Tailwind CSS**.
 
+---
 
+## 🌐 Live Demo
+
+🔗 https://heartfelt-crisp-8eae4f.netlify.app/
+
+---
 
 ## 🚀 How to Run This Project
 
