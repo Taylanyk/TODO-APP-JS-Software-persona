@@ -81,7 +81,3 @@ The project is automatically deployed via GitHub integration with Netlify.
 
 ---
 
-## 👩‍💻 Author
-
-Your Name  
-https://github.com/your-username
